@@ -1,0 +1,15 @@
+root 
+lowerback 
+upperback 
+thorax 
+lowerneck 
+upperneck 
+head 
+rclavicle 
+rhumerus
+rradius
+rwrist
+rhand 
+rfingers 
+rthumb 
+lclavicle
